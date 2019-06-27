@@ -18,7 +18,7 @@ header {
   font-family: ten-mincho, serif;
   font-weight: 400;
   font-size: 150px;
-  height: 250px;
+  height: 350px;
 }
 
 footer {
@@ -235,5 +235,8 @@ a {
   padding: 20px;  
   font-size:50px;
 }
-/*# sourceMappingURL=stylesheet.css.map */
 
+.text{
+  font-size:50px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
